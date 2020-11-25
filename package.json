@@ -1,0 +1,50 @@
+{
+  "_from": "@owczar/dashboard-style--airframe@^0.1.13",
+  "_id": "@owczar/dashboard-style--airframe@0.1.23",
+  "_inBundle": false,
+  "_integrity": "sha512-cTY/9+rloQepwVx0CsKm9+//4H6qJA7QNzPv5WrGoO1iRV8vKqpMg8E3v+Gn2JCfpv9tqsMAd1C//hxVbcGRSQ==",
+  "_location": "/@owczar/dashboard-style--airframe",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@owczar/dashboard-style--airframe@^0.1.13",
+    "name": "@owczar/dashboard-style--airframe",
+    "escapedName": "@owczar%2fdashboard-style--airframe",
+    "scope": "@owczar",
+    "rawSpec": "^0.1.13",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.13"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@owczar/dashboard-style--airframe/-/dashboard-style--airframe-0.1.23.tgz",
+  "_shasum": "c477469748a62a97ad2f8feeeda14a93ce50e394",
+  "_spec": "@owczar/dashboard-style--airframe@^0.1.13",
+  "_where": "/home/jmcm/business/Gluu/code/jans-admin-ui",
+  "author": {
+    "name": "webkom.co"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "animejs": "^3.0.1",
+    "highcharts": "^7.1.2",
+    "url-join": "^4.0.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {
+    "gulp-replace": "^1.0.0"
+  },
+  "license": "ISC",
+  "main": "js-modules/index.js",
+  "name": "@owczar/dashboard-style--airframe",
+  "peerDependencies": {
+    "bootstrap": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.23"
+}
