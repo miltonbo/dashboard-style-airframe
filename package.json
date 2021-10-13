@@ -1,6 +1,5 @@
 {
-  "_from": "@owczar/dashboard-style--airframe@^0.1.13",
-  "_id": "@owczar/dashboard-style--airframe@0.1.23",
+  "_from": "@miltonbo/dashboard-style-airframe@^0.1.13",
   "_inBundle": false,
   "_integrity": "sha512-cTY/9+rloQepwVx0CsKm9+//4H6qJA7QNzPv5WrGoO1iRV8vKqpMg8E3v+Gn2JCfpv9tqsMAd1C//hxVbcGRSQ==",
   "_location": "/@owczar/dashboard-style--airframe",
@@ -23,28 +22,36 @@
   "_shasum": "c477469748a62a97ad2f8feeeda14a93ce50e394",
   "_spec": "@owczar/dashboard-style--airframe@^0.1.13",
   "_where": "/home/jmcm/business/Gluu/code/jans-admin-ui",
-  "author": {
-    "name": "webkom.co"
-  },
-  "bundleDependencies": false,
+  "author": "webkom.co",
   "dependencies": {
     "animejs": "^3.0.1",
     "highcharts": "^7.1.2",
     "url-join": "^4.0.0"
   },
   "deprecated": false,
-  "description": "",
   "devDependencies": {
     "gulp-replace": "^1.0.0"
   },
-  "license": "ISC",
+  "license": "MIT",
   "main": "js-modules/index.js",
-  "name": "@owczar/dashboard-style--airframe",
+  "name": "@miltonbo/dashboard-style-airframe",
   "peerDependencies": {
     "bootstrap": "^4.1.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.23"
+  "version": "0.1.23",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miltonbo/dashboard-style-airframe.git"
+  },
+  "keywords": [
+    "airframe"
+  ],
+  "bugs": {
+    "url": "https://github.com/miltonbo/dashboard-style-airframe/issues"
+  },
+  "homepage": "https://github.com/miltonbo/dashboard-style-airframe#readme",
+  "description": ""
 }
